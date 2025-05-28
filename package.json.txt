@@ -1,5 +1,4 @@
-[하은] [오후 11:37] npx create-next-app@latest my-search-app -e with-tailwindcss --ts
-[하은] [오후 11:48] {
+{
   "name": "affiliate-search",
   "version": "1.0.0",
   "private": true,
